@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Ubuntu', sans-serif;
+}
+main{
+    width: 80%;
+    margin-left: 10%;
+    text-align: justify;
+    padding-top: 5%;
+}
+.cabecalho h2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.question{
+  margin-top: 50px;
+  margin-left: 45%;
+}
+.question button{
+    background: linear-gradient(45deg, rgba(74, 132, 247, 0.819), blue);
+    width: 50px;
+    padding: 3px;
+    border-radius: 12px;
+    color: #fff;
+    border: transparent;
+}
+.container li{
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 5px;
+}
